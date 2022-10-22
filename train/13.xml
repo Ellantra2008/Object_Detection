@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Jobs</folder>
+	<filename>13.jpg</filename>
+	<path>C:\Users\DhananjayD\New folder\Jobs\13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1136</width>
+		<height>936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Job</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>835</xmin>
+			<ymin>495</ymin>
+			<xmax>988</xmax>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+</annotation>
