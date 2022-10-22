@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>label</folder>
+	<filename>train (5).jpg</filename>
+	<path>C:\Users\DhananjayD\New folder\New\labelImg-master\label\train (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>20</ymin>
+			<xmax>207</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>
